@@ -1,0 +1,128 @@
+# OS Files
+.DS_Store
+Thumbs.db
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Desktop.ini
+
+# IDE & Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.sublime-project
+.sublime-workspace
+*.code-workspace
+.fleet/
+
+# Node & NPM
+node_modules/
+npm-debug.log
+yarn-error.log
+package-lock.json
+yarn.lock
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# AWS
+.aws/
+aws-credentials.txt
+credentials
+*.pem
+*.key
+!sample-key.pem
+
+# Temporary Files
+*.tmp
+*.temp
+*.bak
+*.backup
+*~
+.swp
+.swo
+*.log
+
+# Local Development
+.env
+.env.local
+.env.*.local
+config.local.json
+
+# Build Output
+dist/
+build/
+*.min.js
+*.min.css
+
+# Dependencies
+.bundle/
+vendor/
+
+# OS Specific
+.AppleDouble
+.LSOverride
+*.lnk
+
+# Misc
+.cache/
+.project
+.classpath
+.c9/
+*.jsfirebaseapp.com
+.runtimeconfig.json
+.ruby-version
+.ruby-gemset
+
+# Screenshots (local extraction)
+screenshots/extracted/
+*.raw
+
+# Temporary extraction directories
+temp/
+tmp/
+
+# Git
+.git/
+.gitattributes
+
+# Secrets & Sensitive Data
+*.secret
+.credentials
+.config
+secrets.json
+private.key
+.auth
+tokens.json
+
+# Archive Files
+*.zip
+*.tar.gz
+*.rar
+*.7z
